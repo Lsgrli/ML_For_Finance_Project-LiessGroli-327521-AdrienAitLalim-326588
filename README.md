@@ -1,1 +1,1 @@
-# ML_For_Finance_Project-LiessGroli-327521-AdrienAitLalim-326588
+# ML_For_Finance_Project-LiessGröli-327521-AdrienAïtLalim-326588
